@@ -1,4 +1,4 @@
-public class case1 {
+public class butterfly_pattern {
     public static void main(String[] args) {
         int n = 8;
         int clo = 8;
@@ -30,3 +30,4 @@ public class case1 {
         }
     }
 }
+
