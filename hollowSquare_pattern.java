@@ -1,4 +1,4 @@
-public class case2 {
+public class hollowSquare_pattern {
     public static void main(String[] args) {
         int rows = 5;
         int cols = 5;
@@ -21,4 +21,5 @@ public class case2 {
             System.out.println();
         }
     }
+
 }
